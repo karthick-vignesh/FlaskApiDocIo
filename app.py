@@ -2,7 +2,7 @@ from flask import Flask, request, redirect
 from flask_restful import Resource, Api
 from flask_cors import CORS
 import os
-import prediction
+import FlaskApiDocIo.prediction as prediction
 from PIL import Image
 import io
 
