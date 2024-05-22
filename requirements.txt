@@ -4,7 +4,6 @@ Flask_Cors==4.0.1
 Flask_RESTful==0.3.10
 pandas==2.2.2
 Pillow==9.5.0
-Pillow==10.3.0
 plotly==5.22.0
 streamlit==1.25.0
 torch==2.3.0
